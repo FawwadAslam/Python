@@ -15,7 +15,7 @@ This repository includes 18+ standalone Python scripts, organized by theme:
 - BMI Calculator
 - Tip Calculator
 - Pizza Bill
-- Maths Calculator
+- Maths Calculator A, B
 
 ### 🔐 Security & Encryption
 - Caesar Cipher (v3 & v4)
