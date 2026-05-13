@@ -10,6 +10,7 @@ This repository includes 18+ standalone Python scripts, organized by theme:
 - Hangman
 - Rock Paper Scissors (multiple logic styles)
 - Treasure Island
+- Blackjack
 
 ### 🧮 Calculators
 - BMI Calculator
