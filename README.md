@@ -1,6 +1,6 @@
 # 🐍 Python Mini Projects by Fawwad
 
-Welcome to my personal collection of beginner-to-intermediate Python projects! This repo documents my hands-on journey through core programming concepts—from playful games to practical utilities—all crafted with logic, creativity, and precision.
+Welcome to my personal collection of beginner to intermediate Python projects! This repo documents my hands on journey through core programming concepts, from playful games to practical utilities, all crafted with logic, creativity, and for the love of coding.
 
 ## 🚀 What's Inside
 
