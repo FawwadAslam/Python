@@ -11,6 +11,7 @@ This repository includes 18+ standalone Python scripts, organized by theme:
 - Rock Paper Scissors (multiple logic styles)
 - Treasure Island
 - Blackjack
+- Higher & Lower A, B, C
 
 ### 🧮 Calculators
 - BMI Calculator
