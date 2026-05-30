@@ -29,6 +29,9 @@ This repository includes 18+ standalone Python scripts, organized by theme:
 - Even & Odd
 - Secret Bidding System
 
+### ⚙️ Machines Logic
+- Coffee Machine
+
 ## 🛠 How to Run
 
 Each script is standalone. You can run them using any Python IDE (like PyCharm) or via terminal:
